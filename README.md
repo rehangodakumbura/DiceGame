@@ -37,4 +37,4 @@ The game is a two-player match: **Human vs Computer**.
 ## 🚀 How to Run
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/rehangodakumbura/dice-game.git
+   git clone https://github.com/rehangodakumbura/DiceGame.git
